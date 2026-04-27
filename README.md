@@ -4,7 +4,7 @@ MINDBLOOM is a Flutter-based educational app designed to deliver interactive and
 
 ---
 
-## 🚀 Features
+## Features
 
 - 🎯 **Dynamic Content Rendering**: Displays different UI components based on `contentType`.
 - ✏️ **Fill in the Blank**: Input-based questions for language learning.
